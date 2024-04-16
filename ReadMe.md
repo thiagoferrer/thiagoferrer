@@ -1,5 +1,5 @@
 # 💫 About Me:
- Estou cursando Desenvolvimento Full Stack - B7Web.<br> Estou estudando Análise e Desenvolvimento de Sistemas - FIAP. (Fev-2024 / DEz-2025)
+ Cursando: Desenvolvimento Full Stack - B7Web.<br> Cursando: Análise e Desenvolvimento de Sistemas - FIAP. (Fev-2024 / Dez-2025)
 
 
 ## 🌐 Socials:
