@@ -1,5 +1,6 @@
 # 💫 About Me:
-Cursando: Análise e Desenvolvimento de Sistemas - FIAP. (Fev-2024 / Dez-2025)
+- 🔭 I’m currently looking for a job in the software development field.
+- 🌱 I’m currently learning Systems Analysis and Development in College. I'm in the second semester of the course.
 
 
 ## 🌐 Socials:
