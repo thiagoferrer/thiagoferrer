@@ -1,5 +1,5 @@
 👋 Hello! Welcome to my Github profile.
-## My name is Thiago Ferrer and my nickname is "Ferrer"!
+## My name is Thiago Carvalho Ferrer and my nickname is "Ferrer"!
 
 # 💫 About Me:
 - 🔭 I’m currently looking for a job in the software development field.
