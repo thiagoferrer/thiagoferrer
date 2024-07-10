@@ -2,8 +2,10 @@
 ## My name is Thiago Carvalho Ferrer and my nickname is "Ferrer"!
 
 # 💫 About Me:
-- 🔭 I’m currently looking for a job in the software development field.
-- 🌱 I’m currently learning Systems Analysis and Development in College. I'm in the second semester of the course.
+- 🔭 I'm looking for a Software Development job.
+- 👨🏻‍🎓 Graduated in Foreign Trade.
+- 👨🏻‍🎓 I’m currently studying Systems Analysis and Development in College. I'm in the second semester of the course.
+- 📚 I'm learning HTML, CSS, Javascript and Python.
 
 
 ## 🌐 Socials:
