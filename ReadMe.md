@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! Welcome to my Github profile.<br>My name is Thiago Carvalho Ferrer and my nickname is "Ferrer"!<br><br>- 🔭 I'm looking for a Software Development job.<br>- 👨🏻‍🎓 Graduated in Foreign Trade.<br>- 👨🏻‍🎓 I’m currently studying Systems Analysis and Development in College.</p>
+<p align="left">👋 Hello! Welcome to my Github profile.<br><br><br>- 🔭 I'm looking for a Software Development job.<br>- 👨🏻‍🎓 Graduated in Foreign Trade.<br>- 👨🏻‍🎓 I’m currently studying Systems Analysis and Development in College.</p>
 
 ###
 
