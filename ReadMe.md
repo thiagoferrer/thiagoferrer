@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! Welcome to my Github.<br><br>- 👨🏻‍🎓 Graduated in Foreign Trade.<br>- 👨🏻‍🎓 I’m currently studying Systems Analysis and Development in College.</p>
+<p align="left">👋 Hello! Welcome to my Github.<br><br>- 👨🏻‍🎓 Studying - Degree in Systems Analysis and Development.<br>- 👨🏻‍🎓 Studying - Postgraduate in Full Stack Development.</p>
 
 ###
 
