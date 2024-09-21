@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thiago Ferrer and I'm a brazilian, from Brazil.</p>
+<p align="left">My name is Thiago Ferrer and I'm from Brazil.</p>
 
 ###
 
