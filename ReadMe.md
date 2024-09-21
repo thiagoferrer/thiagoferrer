@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently studying - Degree in Systems Analysis and Development.<br>📚 I'm currently studying - Postgraduate in Full Stack Development.<br>🎯 Goals: Full Stack Developer / AWS Developer.</p>
+<p align="left"><br>📚 I'm currently studying - Degree in Systems Analysis and Development.<br>📚 I'm currently studying - Postgraduate in Full Stack Development.<br>🎯 Goals: Full Stack Developer / AWS Developer.</p>
 
 ###
 
