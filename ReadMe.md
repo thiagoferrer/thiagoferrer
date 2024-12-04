@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">✨ Full Stack Development<br>📚 I'm currently studying - Degree in Systems Analysis and Development.<br>📚 I'm currently studying - Postgraduate in Full Stack Development.<br>🎯 Goals: AWS Certified Cloud Practitioner. 
-###
+<p align="left">✨ Full Stack Development<br>📚 I'm currently studying - Degree in Systems Analysis and Development.<br>📚 I'm currently studying - Postgraduate in Full Stack Development.
 
 <h2 align="left">I code with</h2>
 
