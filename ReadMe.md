@@ -7,9 +7,10 @@
 ###
 
 <p align="left">
-✨ Desenvolvimento Full Stack<br>
+✨ Desenvolvimento Full Stack Development<br>
 📚 Atualmente cursando - Graduação em Análise e Desenvolvimento de Sistemas.<br>
-📚 Atualmente cursando - Pós-graduação em Desenvolvimento Full Stack.<br>
+📚 Atualmente cursando - Pós-graduação em Full Stack Development.<br>
+  
 🎯 **Objetivo**: Atuar como Full Stack Developer, com foco em backend (Java) e, futuramente, cursar um MBA em CTO para desenvolver habilidades de liderança e inovação.
 </p>
 
@@ -30,11 +31,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" alt="dbeaver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
@@ -57,4 +60,3 @@
 ✔ Trabalho em equipe  
 ✔ Resolução de problemas  
 ✔ Proatividade  
-
