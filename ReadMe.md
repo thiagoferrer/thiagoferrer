@@ -1,20 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is Thiago Ferrer</p>
+<p align="left">Meu nome é Thiago Ferrer</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">
+✨ Desenvolvimento Full Stack<br>
+📚 Atualmente cursando - Graduação em Análise e Desenvolvimento de Sistemas.<br>
+📚 Atualmente cursando - Pós-graduação em Desenvolvimento Full Stack.<br>
+🎯 **Objetivo**: Atuar como Full Stack Developer, com foco em backend (Java) e, futuramente, cursar um MBA em CTO para desenvolver habilidades de liderança e inovação.
+</p>
 
 ###
 
-<p align="left">✨ Full Stack Development<br>📚 I'm currently studying - Degree in Systems Analysis and Development.<br>📚 I'm currently studying - Postgraduate in Full Stack Development.
+<h2 align="left">Tecnologias que utilizo</h2>
 
-<h2 align="left">I code with</h2>
-
-###
+### 🛠 Hard Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -48,12 +51,10 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
 
-###
+### 💡 Soft Skills
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/thiagoferrer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+✔ Comunicação eficaz  
+✔ Trabalho em equipe  
+✔ Resolução de problemas  
+✔ Proatividade  
 
-###
