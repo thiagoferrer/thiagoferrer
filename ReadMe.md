@@ -56,9 +56,9 @@
   
 ---
 
-:chart_with_upwards_trend: Estatísticas 
-###
+### :chart_with_upwards_trend: Estatísticas 
 
+<p> 
   <img
     align="left"
     alt="GitHub Stats"
@@ -74,4 +74,4 @@
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&theme=vue-dark&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
-
+</p>
