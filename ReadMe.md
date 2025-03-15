@@ -1,25 +1,19 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
-
-###
-
-<p align="left">Meu nome é Thiago Ferrer</p>
+<h1 align="left">:man_technologist:Thiago Ferrer</h1>
 
 ###
 
 <p align="left">
-✨ Desenvolvimento Full Stack Development<br>
+✨ Full Stack Development<br>
+  
 📚 Atualmente cursando - Graduação em Análise e Desenvolvimento de Sistemas.<br>
 📚 Atualmente cursando - Pós-graduação em Full Stack Development.<br>
   
-🎯 **Objetivo**: Atuar como Full Stack Developer, com foco em backend (Java) e, futuramente, cursar um MBA em CTO para desenvolver habilidades de liderança e inovação.
+🎯 **Objetivo**: Atuar como Full Stack Developer, futuramente, cursar um MBA em CTO para desenvolver habilidades de liderança e inovação.
 </p>
 
-###
+---
 
-<h2 align="left">Tecnologias que utilizo</h2>
-
-### 🛠 Hard Skills
-
+### 🛠 Linguagens e Ferramentas 🛠
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -37,6 +31,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" alt="dbeaver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -53,10 +53,25 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
+  
+---
 
-### 💡 Soft Skills
+:chart_with_upwards_trend: Estatísticas 
+###
 
-✔ Comunicação eficaz  
-✔ Trabalho em equipe  
-✔ Resolução de problemas  
-✔ Proatividade  
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=thiagoferrer&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br"
+/>
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&theme=vue-dark&layout=compact&custom_title=Tecnologias&langs_count=7"
+/>
+
