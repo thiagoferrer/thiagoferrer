@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Me chamo Thiago Ferrer</h1>
-<h3 align="center">Graduado em Análise e Desenvolvimento de Sistemas | Pós-graduando em Full Stack Development</h3>
+<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas | Pós-graduando em Full Stack Development</h3>
 
 ---
 
@@ -40,9 +40,9 @@
 
 ### 🎓 Bolsas de estudo e Bootcamps
 
-- 💻 Devs Agibank Backend - Java  
-- 🧠 Santander 2025 - Back-End com Java  
-- 🚀 GFT Start #7 - Java  
+-  Bolsa - Devs Agibank Backend - Java  
+-  Bolsa e Bootcamp - Santander 2025 - Back-End com Java  
+-  Bootcamp - GFT Start #7 - Java  
 
 ---
 
