@@ -50,6 +50,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagoferrer&show_icons=true&theme=dracula" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=compact&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagoferrer&show_icons=true&theme=transparent&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&icon_color=00FFFF&border_color=FF6EC7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=compact&theme=transparent&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&border_color=FF6EC7" />
 </p>
