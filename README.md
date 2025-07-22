@@ -1,8 +1,3 @@
-Claro! Aqui está um modelo de README para o seu perfil do GitHub, com ícones e seções bem organizadas para apresentar suas habilidades, formações, experiências e objetivos:
-
----
-
-```markdown
 <h1 align="center">Olá! 👋 Me chamo Thiago Ferrer</h1>
 <h3 align="center">Graduado em Análise e Desenvolvimento de Sistemas | Pós-graduando em Full Stack Development</h3>
 
