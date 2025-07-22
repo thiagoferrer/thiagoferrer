@@ -46,14 +46,6 @@
 
 ---
 
-## 💡 Objetivos
-
-- 🔄 Transição completa para a área de TI  
-- 👨‍💻 Atuar como **Desenvolvedor Full Stack**  
-- 🎓 Ingressar no MBA em **CTO e Liderança em Tecnologia**
-
----
-
 ### 📈 GitHub Stats
 
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoferrer)](https://github.com/thiagoferrer/github-readme-stats)
