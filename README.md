@@ -39,6 +39,7 @@
 ---
 
 ### 🎓 Bolsas de estudo e Bootcamps
+
 -  Bolsa - Devs Agibank Backend - Java  
 -  Bolsa e Bootcamp - Santander 2025 - Back-End com Java  
 -  Bootcamp - GFT Start #7 - Java  
@@ -46,6 +47,7 @@
 ---
 
 ## 💡 Objetivos
+
 - 🔄 Transição completa para a área de TI  
 - 👨‍💻 Atuar como **Desenvolvedor Full Stack**  
 - 🎓 Ingressar no MBA em **CTO e Liderança em Tecnologia**
