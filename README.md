@@ -56,7 +56,7 @@
 
 ### 📈 GitHub Stats
 
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/thiagoferrer/github-readme-stats)
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoferrer)](https://github.com/thiagoferrer/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=compact&theme=radical)
 
 ---
