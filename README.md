@@ -57,5 +57,4 @@
 ### 📈 GitHub Stats
 
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoferrer)](https://github.com/thiagoferrer/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&langs_count=8)
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=donut)](https://github.com/thiagoferrer/github-readme-stats)---
