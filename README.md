@@ -48,5 +48,7 @@
 
 ### 📈 GitHub Stats
 
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoferrer&show_icons=true&theme=dracula)](https://github.com/thiagoferrer/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=donut&theme=dracula)](https://github.com/thiagoferrer/github-readme-stats)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagoferrer&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=compact&theme=dracula" />
+</p>
