@@ -9,7 +9,7 @@
 - 💼 Buscando oportunidades como **Desenvolvedor Full Stack**  
 - 🚀 Apaixonado por aprender, construir e colaborar com projetos
 - 👨‍💻 Atuar como **Desenvolvedor Full Stack**  
-- 🎓 Ingressar no MBA em **CTO e Liderança em Tecnologia**
+- 🎓 Futuro MBA em **CTO e Liderança em Tecnologia**
 
 ---
 
