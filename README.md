@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Me chamo Thiago Ferrer</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas | Pós-graduando em Full Stack Development</h3>
 
----
+
 
 ### ☕ Sobre mim
 
@@ -57,4 +57,4 @@
 ### 📈 GitHub Stats
 
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoferrer)](https://github.com/thiagoferrer/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=donut)](https://github.com/thiagoferrer/github-readme-stats)---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoferrer&layout=donut)](https://github.com/thiagoferrer/github-readme-stats)
