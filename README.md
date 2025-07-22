@@ -3,16 +3,17 @@
 
 
 
-### ☕ Sobre mim
+### ☕ Sobre mim e Objetivos:
 
 - 🎯 Em transição de carreira para **Tecnologia da Informação**  
 - 💼 Buscando oportunidades como **Desenvolvedor Full Stack**  
-- 🚀 Apaixonado por aprender, construir e colaborar com projetos  
-- 🎓 Futuro MBA em **CTO e Liderança em Tecnologia**
+- 🚀 Apaixonado por aprender, construir e colaborar com projetos
+- 👨‍💻 Atuar como **Desenvolvedor Full Stack**  
+- 🎓 Ingressar no MBA em **CTO e Liderança em Tecnologia**
 
 ---
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -25,7 +26,7 @@
 
 ---
 
-### 🔧 Ferramentas
+### 🔧 Ferramentas:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -38,7 +39,7 @@
 
 ---
 
-### 🎓 Bolsas de estudo e Bootcamps
+### 🎓 Bolsas de estudo e Bootcamps:
 
 -  Bolsa - Devs Agibank Backend - Java  
 -  Bolsa e Bootcamp - Santander 2025 - Back-End com Java  
