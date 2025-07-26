@@ -41,8 +41,8 @@
 
 ### 🎓 Bolsa de estudo e Bootcamp:
 
--  Bolsa/Bootcamp - Santander 2025 - Back-End com Java  
--  Bolsa - Devs Agibank Backend - Java  2025
+-  Bolsa/Bootcamp - Santander - Back-End com Java 2025
+-  Bolsa - Devs Agibank Backend com Java  2025
 -  Bootcamp - GFT Start #7 - Java  2025
 
 ---
