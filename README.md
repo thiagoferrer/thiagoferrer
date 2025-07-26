@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Me chamo Thiago Ferrer</h1>
+<h1 align="center">Olá! 👋 Me chamo Thiago Carvalho Ferrer</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas | Pós-graduando em Full Stack Development</h3>
 
 
