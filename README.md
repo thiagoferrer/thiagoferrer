@@ -7,8 +7,7 @@
 
 - 🎯 Em transição de carreira para **Tecnologia da Informação**  
 - 💼 Buscando oportunidades como **Desenvolvedor Full Stack**  
-- 🚀 Apaixonado por aprender, construir e colaborar com projetos
-- 👨‍💻 Atuar como **Desenvolvedor Full Stack**  
+- 🚀 Apaixonado por aprender, construir e colaborar com projetos 
 - 🎓 Futuro MBA em **CTO e Liderança em Tecnologia**
 
 ---
