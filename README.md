@@ -1,18 +1,16 @@
-<h1 align="center">Olá!  Me chamo Thiago Carvalho Ferrer</h1>
-<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas | Pós-graduando em Full Stack Development</h3>
+<h1 align="center">Hello! I'm Thiago Carvalho Ferrer</h1>
+<h3 align="center">Studying Systems Analysis and Development | Postgraduate in Full Stack Development</h3>
 
+### About Me and Goals:
 
-
-###  Sobre mim e Objetivos:
-
--  Em transição de carreira para **Tecnologia da Informação**  
--  Buscando oportunidades como **Desenvolvedor Full Stack**  
--  Apaixonado por aprender, construir e colaborar com projetos 
--  Futuro MBA em **CTO e Liderança em Tecnologia**
+- Currently transitioning into a career in **Information Technology**  
+- Seeking opportunities as a **Full Stack Developer**  
+- Passionate about learning, building, and collaborating on projects  
+- Future MBA candidate in **CTO and Technology Leadership**
 
 ---
 
-###  Tecnologias:
+### Technologies:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +24,7 @@
 
 ---
 
-###  Ferramentas:
+### Tools:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -41,15 +39,15 @@
 
 ---
 
-###  Bolsa de estudo e Bootcamp:
+### Scholarships and Bootcamps:
 
--  Bolsa/Bootcamp - Santander - Back-End com Java 2025
--  Bolsa - Devs Agibank Backend com Java  2025
--  Bootcamp - GFT Start #7 - Java  2025
+- Scholarship/Bootcamp - Santander - Back-End with Java 2025  
+- Scholarship - Devs Agibank Backend with Java 2025  
+- Bootcamp - GFT Start #7 - Java 2025  
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagoferrer&show_icons=true&theme=radical" />
