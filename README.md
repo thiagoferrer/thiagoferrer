@@ -6,7 +6,6 @@
 - Currently transitioning into a career in **Information Technology**  
 - Seeking opportunities as a **Full Stack Developer**  
 - Passionate about learning, building, and collaborating on projects  
-- Future MBA candidate in **CTO and Technology Leadership**
 
 ---
 
